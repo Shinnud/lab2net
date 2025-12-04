@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Makhnitskyi.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "Makhnitskyi.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Makhnitskyi.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
+      "Makhnitskyi.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "Makhnitskyi.TaskPlanner.Domain.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Makhnitskyi.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Makhnitskyi.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

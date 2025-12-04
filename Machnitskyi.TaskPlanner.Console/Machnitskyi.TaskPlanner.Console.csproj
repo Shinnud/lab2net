@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj" />
+    <ProjectReference Include="..\Makhnitskyi.TaskPlanner.DataAccess\Makhnitskyi.TaskPlanner.DataAccess.csproj" />
+    <ProjectReference Include="..\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj" />
+    <ProjectReference Include="..\Makhnitskyi.TaskPlanner.Domain.Logic\Makhnitskyi.TaskPlanner.Domain.Logic.csproj" />
+    <ProjectReference Include="..\Makhnitskyi.TaskPlanner.Domain.Models\Makhnitskyi.TaskPlanner.Domain.Models.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,465 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\Machnitskyi.TaskPlanner.Console.csproj": {}
+  },
+  "projects": {
+    "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\Machnitskyi.TaskPlanner.Console.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\Machnitskyi.TaskPlanner.Console.csproj",
+        "projectName": "Machnitskyi.TaskPlanner.Console",
+        "projectPath": "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\Machnitskyi.TaskPlanner.Console.csproj",
+        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\Makhnitskyi.TaskPlanner.DataAccess.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\Makhnitskyi.TaskPlanner.DataAccess.csproj"
+              },
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj"
+              },
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj"
+              },
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "Makhnitskyi.TaskPlanner.DataAccess.Abstractions",
+        "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\Makhnitskyi.TaskPlanner.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\Makhnitskyi.TaskPlanner.DataAccess.csproj",
+        "projectName": "Makhnitskyi.TaskPlanner.DataAccess",
+        "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\Makhnitskyi.TaskPlanner.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+        "projectName": "Makhnitskyi.TaskPlanner.Domain.Logic.Tests",
+        "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[18.0.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj",
+        "projectName": "Makhnitskyi.TaskPlanner.Domain.Logic",
+        "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj",
+        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj"
+              },
+              "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj",
+        "projectName": "Makhnitskyi.TaskPlanner.Domain.Models",
+        "projectPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
+        "outputPath": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

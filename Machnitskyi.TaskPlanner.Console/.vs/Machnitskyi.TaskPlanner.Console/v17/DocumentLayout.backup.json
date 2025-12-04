@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98FF722E-3FFA-403D-AAA0-5FC67C12D097}|Machnitskyi.TaskPlanner.Console.csproj|d:\\coding\\net\\lab2net\\machnitskyi.taskplanner.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98FF722E-3FFA-403D-AAA0-5FC67C12D097}|Machnitskyi.TaskPlanner.Console.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9F84AE6-62C3-48A8-854B-6FEAD5C573EF}|..\\Makhnitskyi.TaskPlanner.Domain.Models\\Makhnitskyi.TaskPlanner.Domain.Models.csproj|d:\\coding\\net\\lab2net\\makhnitskyi.taskplanner.domain.models\\workitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF621F8-9019-4242-9B09-8B0349EA275C}|..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj|d:\\coding\\net\\lab2net\\makhnitskyi.taskplanner.domain.logic.tests\\simpletaskplannertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A320CE-144F-411B-8B95-0CB0B441C5EB}|..\\Makhnitskyi.TaskPlanner.Domain.Logic\\Makhnitskyi.TaskPlanner.Domain.Logic.csproj|d:\\coding\\net\\lab2net\\makhnitskyi.taskplanner.domain.logic\\simpletaskplanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F62A902-AD27-4954-BD7B-2DBCC0561CA4}|..\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj|d:\\coding\\net\\lab2net\\makhnitskyi.taskplanner.dataaccess.abstractions\\iworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93854632-8AF4-43C1-AE9D-0D05CE61B888}|..\\Makhnitskyi.TaskPlanner.DataAccess\\Makhnitskyi.TaskPlanner.DataAccess.csproj|d:\\coding\\net\\lab2net\\makhnitskyi.taskplanner.dataaccess\\fileworkitemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF621F8-9019-4242-9B09-8B0349EA275C}|..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj|d:\\coding\\net\\lab2net\\makhnitskyi.taskplanner.domain.logic.tests\\makhnitskyi.taskplanner.domain.logic.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBF621F8-9019-4242-9B09-8B0349EA275C}|..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj|d:\\coding\\net\\lab2net\\makhnitskyi.taskplanner.domain.logic.tests\\makhnitskyi.taskplanner.domain.logic.tests.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Machnitskyi.TaskPlanner.Console\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:13:33.878Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkItem.cs",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeDocumentMoniker": "..\\Makhnitskyi.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "RelativeToolTip": "..\\Makhnitskyi.TaskPlanner.Domain.Models\\WorkItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T14:53:28.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWorkItemsRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "RelativeToolTip": "..\\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\\IWorkItemsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:04:13.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileWorkItemsRepository.cs",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeDocumentMoniker": "..\\Makhnitskyi.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "RelativeToolTip": "..\\Makhnitskyi.TaskPlanner.DataAccess\\FileWorkItemsRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAkwC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:24:21.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimpleTaskPlanner.cs",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeDocumentMoniker": "..\\Makhnitskyi.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "RelativeToolTip": "..\\Makhnitskyi.TaskPlanner.Domain.Logic\\SimpleTaskPlanner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:26:01.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleTaskPlannerTests.cs",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "RelativeDocumentMoniker": "..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "RelativeToolTip": "..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\SimpleTaskPlannerTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T16:37:28.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "RelativeToolTip": "..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T17:11:29.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Makhnitskyi.TaskPlanner.Domain.Logic.Tests",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "RelativeToolTip": "..\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests\\Makhnitskyi.TaskPlanner.Domain.Logic.Tests.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T17:09:59.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

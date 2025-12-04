@@ -1,0 +1,11 @@
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.deps.json
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.AssemblyInfo.cs
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\refint\Makhnitskyi.TaskPlanner.Domain.Models.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.Domain.Models\obj\Debug\net8.0\ref\Makhnitskyi.TaskPlanner.Domain.Models.dll

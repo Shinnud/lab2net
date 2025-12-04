@@ -1,0 +1,17 @@
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.deps.json
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.csproj.AssemblyReference.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.AssemblyInfoInputs.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.AssemblyInfo.cs
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.csproj.CoreCompileInputs.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnits.6BD44930.Up2Date
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\refint\Makhnitskyi.TaskPlanner.DataAccess.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess\obj\Debug\net8.0\ref\Makhnitskyi.TaskPlanner.DataAccess.dll

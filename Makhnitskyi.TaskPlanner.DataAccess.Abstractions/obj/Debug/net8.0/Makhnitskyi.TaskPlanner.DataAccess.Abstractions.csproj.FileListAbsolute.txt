@@ -1,0 +1,15 @@
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.deps.json
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\bin\Debug\net8.0\Makhnitskyi.TaskPlanner.Domain.Models.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnits.37960C0E.Up2Date
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\refint\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.dll
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.pdb
+D:\Coding\net\lab2net\Makhnitskyi.TaskPlanner.DataAccess.Abstractions\obj\Debug\net8.0\ref\Makhnitskyi.TaskPlanner.DataAccess.Abstractions.dll

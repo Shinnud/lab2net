@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Coding\\net\\lab2net\\WorkItem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6128E159-CB65-4E70-8F79-352B16BD08D0}|WorkItem\\WorkItem.csproj|d:\\coding\\net\\lab2net\\workitem\\workitem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128E159-CB65-4E70-8F79-352B16BD08D0}|WorkItem\\WorkItem.csproj|solutionrelative:workitem\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Coding\\net\\lab2net\\WorkItem\\WorkItem\\Class1.cs",
+              "RelativeDocumentMoniker": "WorkItem\\Class1.cs",
+              "ToolTip": "D:\\Coding\\net\\lab2net\\WorkItem\\WorkItem\\Class1.cs",
+              "RelativeToolTip": "WorkItem\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T21:56:03.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
